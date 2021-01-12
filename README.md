@@ -1,6 +1,14 @@
 # -CPE-ISE-351-Project
 
-# First time executing simulator ask for user to choose simulation method. Menu should have at least five options. 
+#Firts step you must comple file
+
+1- g++ MyProject.cpp
+
+second you must run
+
+2- ./a.out
+
+# First time executing: simulator ask for user to choose simulation method. Menu should have at least five options. 
 
 # CPU Scheduler Simulator
 # 1) Scheduling Method
